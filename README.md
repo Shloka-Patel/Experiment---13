@@ -63,7 +63,7 @@ int main()
 
 #### Output  
 (A) <br>
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---13/blob/main/Output_13A.png) 
 
 #### Conclusion 
 
