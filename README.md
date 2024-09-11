@@ -7,7 +7,7 @@ To study and implement Constructor Overloading.
 Visual Studio Code 
 
 #### Theory  
-Constructor Overloading in C++ means that we have more than one constructor ina class with the same name, as long as each have a different list of arguments. <br> 
+Constructor Overloading in C++ means that we have more than one constructor in a class with the same name, as long as each have a different list of arguments. <br> 
 A constructor is called depending upon the number and type of arguments passed. <br>                 
 While creating the object, arguments must be passed to let compiler know, which constructor needs to be called. <br> 
 
